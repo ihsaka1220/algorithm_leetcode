@@ -50,7 +50,6 @@ public class solveNQueens {
                 return false;
             }
         }
-
         return true;
     }
 
